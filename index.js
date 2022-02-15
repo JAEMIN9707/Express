@@ -19,6 +19,3 @@ app.post("/post",(req,res)=>{
     res.send ("POST World")
 })
 
-app.get("/contents",(req,res)=>{
-    
-})
